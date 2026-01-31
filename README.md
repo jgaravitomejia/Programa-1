@@ -2,6 +2,8 @@
 
 ## Programa 1 – Desarrollo y Corrección
 
+---
+
 ## Descripción
 Este repositorio contiene el desarrollo del **Programa 1**, el cual incluye el diseño lógico, el procedimiento de solución y la implementación en código Python.  
 El proyecto fue realizado como parte de una actividad académica, con el objetivo de aplicar conceptos de programación y estructuración lógica de algoritmos.
