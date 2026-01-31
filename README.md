@@ -1,4 +1,4 @@
-#Semana 1
+# Semana 1
 
 ## Programa 1 – Desarrollo y Corrección
 
@@ -22,7 +22,7 @@ El proyecto fue realizado como parte de una actividad académica, con el objetiv
 - **Diagrama programa 1.drawio.png**  
   Diagrama de flujo que representa visualmente la lógica y estructura del programa.
 
-- **Procedimiento programa 1.pdf**  
+- **Procedimiento programa 1.docx<**  
   Documento donde se explica paso a paso el procedimiento utilizado para resolver el problema.
 
 - **correccion programa 1.py**  
