@@ -81,7 +81,7 @@ El diseño del programa se basa en:
 - Historial de usuario.
 - Requerimientos funcionales y no funcionales.
 - Diagrama de flujo.
-- Analisis de complejidad con el coisto de tiempo, Big Oh, mejor caso, peor caso con sus graficas y un analisis propio.
+- Analisis de complejidad con el costo de tiempo, Big Oh, mejor caso, peor caso con sus graficas y un analisis propio.
 
 ---
 
