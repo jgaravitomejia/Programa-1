@@ -45,6 +45,10 @@ El diseño del programa se basa en:
 
 ---
 
+# Semana 2
+
+---
+
 ## Autor
 - Juan Garavito
 
